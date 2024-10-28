@@ -13,4 +13,4 @@ Types:
 Default Constructor: Takes no arguments.
 Parameterized Constructor: Takes one or more arguments.
 Copy Constructor: Initializes an object using another object of the same class.
-Move Constructor: Transfers resources from a temporary object to a new object (introduced in C++11).
+Move Constructor: Transfers resources from a temporary object to a new object.
